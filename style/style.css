@@ -125,7 +125,7 @@ ol li
   padding-right: 10px;
   text-align: right; 
   font: 500% 'tangerine', arial; 
-  color: rgb(1, 183, 255);}
+  color: rgb(103, 255, 1);}
 
 #menubar
 { height: 46px;
@@ -446,5 +446,3 @@ table tr td
     margin-right: auto;
     width: 50%;
   }
-
-  
