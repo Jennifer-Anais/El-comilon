@@ -117,7 +117,7 @@ ol li
   text-decoration: none;}
 
 #logo h1 a:hover
-{ color: #555;
+{ color: rgb(#555);
   text-decoration: none;}
 
 .slogan
@@ -125,7 +125,7 @@ ol li
   padding-right: 25px;
   text-align: right; 
   font: 500% 'tangerine', arial; 
-  color: #111;}
+  color: rgb(255, 1, 1);}
 
 #menubar
 { height: 46px;
